@@ -27,7 +27,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-```
+~~~
 map.html
 <html>
 <head>
@@ -106,7 +106,7 @@ The temple is always vibrant and full of spiritual energy.
 </body>
 </html>
 
-```
+~~~
 
 ## OUTPUT
 ![alt text](maps.png)
